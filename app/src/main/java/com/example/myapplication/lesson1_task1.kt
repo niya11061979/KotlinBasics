@@ -2,5 +2,5 @@ package com.example.myapplication
 
 fun main(){
 var numberOrders:Long=75
-val   thanksMessage:String="Спасибо за покупку.Мы всегда с Вами!"
+val   thanksMessage="Спасибо за покупку.Мы всегда с Вами!"
 }
